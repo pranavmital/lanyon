@@ -17,6 +17,21 @@ here's an image that better illustrates what I'm trying to say:
 ![adding an image](/post-images/test-image.png)
 
 
+While we're here, might as well also try a code block:
+```python
+for i in range(10):
+	print("Hello world!")
+
+# add some comments here
+
+if (x>y):
+	x++
+else:
+	y++
+
+print(x+y)
+```
+
   > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
 It's an immensely useful tool and one we encourage you to use here with Lanyon.
