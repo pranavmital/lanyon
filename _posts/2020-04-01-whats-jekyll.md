@@ -14,7 +14,7 @@ Note to self: obsidian backlinks don't work out of the box!
 
 here's an image that better illustrates what I'm trying to say:
 
-![adding an image](/post-images/test-image.png)
+![adding an image](/_posts/post-images/test-image.png)
 
 
 While we're here, might as well also try a code block:
