@@ -10,7 +10,12 @@ This is an attempt to easily add a paragraph of text to this post. Hopefull it w
 - engineering 
 - product
 
-let me try adding a backlink [[2020-04-02-example-content]]
+Note to self: obsidian backlinks don't work out of the box!
+
+here's an image that better illustrates what I'm trying to say:
+
+![adding an image](/post-images/test-image.png)
+
 
   > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
